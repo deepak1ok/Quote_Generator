@@ -60,3 +60,4 @@ newQuoteBtn.addEventListener('click', getQuotes);
 tweetBtn.addEventListener('click', tweetQuote);
 
 getQuotes();
+//my name is dhipcha
